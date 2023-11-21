@@ -1,0 +1,33 @@
+C:\Users\dszar\OneDrive\Documents\Visual Studio 2015\Projects\KinectV2Workshop\BodyStream\BodyStream\bin\Debug\BodyStream.exe.config
+C:\Users\dszar\OneDrive\Documents\Visual Studio 2015\Projects\KinectV2Workshop\BodyStream\BodyStream\bin\Debug\BodyStream.exe
+C:\Users\dszar\OneDrive\Documents\Visual Studio 2015\Projects\KinectV2Workshop\BodyStream\BodyStream\bin\Debug\BodyStream.pdb
+C:\Users\dszar\OneDrive\Documents\Visual Studio 2015\Projects\KinectV2Workshop\BodyStream\BodyStream\bin\Debug\Microsoft.Kinect.dll
+C:\Users\dszar\OneDrive\Documents\Visual Studio 2015\Projects\KinectV2Workshop\BodyStream\BodyStream\bin\Debug\Microsoft.Kinect.xml
+C:\Users\dszar\OneDrive\Documents\Visual Studio 2015\Projects\KinectV2Workshop\BodyStream\BodyStream\obj\Debug\MainWindow.g.cs
+C:\Users\dszar\OneDrive\Documents\Visual Studio 2015\Projects\KinectV2Workshop\BodyStream\BodyStream\obj\Debug\App.g.cs
+C:\Users\dszar\OneDrive\Documents\Visual Studio 2015\Projects\KinectV2Workshop\BodyStream\BodyStream\obj\Debug\BodyStream_MarkupCompile.cache
+C:\Users\dszar\OneDrive\Documents\Visual Studio 2015\Projects\KinectV2Workshop\BodyStream\BodyStream\obj\Debug\BodyStream_MarkupCompile.lref
+C:\Users\dszar\OneDrive\Documents\Visual Studio 2015\Projects\KinectV2Workshop\BodyStream\BodyStream\obj\Debug\MainWindow.baml
+C:\Users\dszar\OneDrive\Documents\Visual Studio 2015\Projects\KinectV2Workshop\BodyStream\BodyStream\obj\Debug\BodyStream.g.resources
+C:\Users\dszar\OneDrive\Documents\Visual Studio 2015\Projects\KinectV2Workshop\BodyStream\BodyStream\obj\Debug\BodyStream.Properties.Resources.resources
+C:\Users\dszar\OneDrive\Documents\Visual Studio 2015\Projects\KinectV2Workshop\BodyStream\BodyStream\obj\Debug\BodyStream.csproj.GenerateResource.Cache
+C:\Users\dszar\OneDrive\Documents\Visual Studio 2015\Projects\KinectV2Workshop\BodyStream\BodyStream\obj\Debug\BodyStream.exe
+C:\Users\dszar\OneDrive\Documents\Visual Studio 2015\Projects\KinectV2Workshop\BodyStream\BodyStream\obj\Debug\BodyStream.pdb
+C:\Users\Rodrigo\Downloads\BodyStream\BodyStream\BodyStream\bin\Debug\BodyStream.exe.config
+C:\Users\Rodrigo\Downloads\BodyStream\BodyStream\BodyStream\bin\Debug\BodyStream.exe
+C:\Users\Rodrigo\Downloads\BodyStream\BodyStream\BodyStream\bin\Debug\BodyStream.pdb
+C:\Users\Rodrigo\Downloads\BodyStream\BodyStream\BodyStream\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Rodrigo\Downloads\BodyStream\BodyStream\BodyStream\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Rodrigo\Downloads\BodyStream\BodyStream\BodyStream\obj\Debug\BodyStream.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Downloads\BodyStream\BodyStream\BodyStream\obj\Debug\MainWindow.g.cs
+C:\Users\Rodrigo\Downloads\BodyStream\BodyStream\BodyStream\obj\Debug\App.g.cs
+C:\Users\Rodrigo\Downloads\BodyStream\BodyStream\BodyStream\obj\Debug\BodyStream_MarkupCompile.cache
+C:\Users\Rodrigo\Downloads\BodyStream\BodyStream\BodyStream\obj\Debug\BodyStream_MarkupCompile.lref
+C:\Users\Rodrigo\Downloads\BodyStream\BodyStream\BodyStream\obj\Debug\MainWindow.baml
+C:\Users\Rodrigo\Downloads\BodyStream\BodyStream\BodyStream\obj\Debug\BodyStream.g.resources
+C:\Users\Rodrigo\Downloads\BodyStream\BodyStream\BodyStream\obj\Debug\BodyStream.Properties.Resources.resources
+C:\Users\Rodrigo\Downloads\BodyStream\BodyStream\BodyStream\obj\Debug\BodyStream.csproj.GenerateResource.cache
+C:\Users\Rodrigo\Downloads\BodyStream\BodyStream\BodyStream\obj\Debug\BodyStream.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Downloads\BodyStream\BodyStream\BodyStream\obj\Debug\BodyStream.csproj.CopyComplete
+C:\Users\Rodrigo\Downloads\BodyStream\BodyStream\BodyStream\obj\Debug\BodyStream.exe
+C:\Users\Rodrigo\Downloads\BodyStream\BodyStream\BodyStream\obj\Debug\BodyStream.pdb
